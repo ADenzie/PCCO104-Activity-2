@@ -13,6 +13,6 @@ class Program
             totalInput += userInput + " ";
             Console.WriteLine("You entered: " + totalInput);
         }
-        Console.WriteLine("Program terminated.");
+        Console.WriteLine("Closing program...");
     }
 }
