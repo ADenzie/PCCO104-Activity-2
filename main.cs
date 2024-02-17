@@ -11,7 +11,6 @@ class Program
         {
             Console.WriteLine("You entered: " + userInput);
         }
-
         Console.WriteLine("Program terminated.");
     }
 }
